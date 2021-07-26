@@ -1,1 +1,1 @@
-# DSCI-100-Proposal
+# DSCI-100-Project
